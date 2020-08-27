@@ -1,0 +1,15 @@
+# History folder
+History/
+
+# Project logs
+*.LOG
+
+# Previews
+__Previews/
+
+# HTML reports
+*.html
+*.htm
+
+# DRC reports
+*.drc
