@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:01:25 On 14-09-2020
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [EF_v1p0.PcbDoc]
+   Generated File[EF_v1p0.TXT]
+   Generated File[EF_v1p0.LDP]
+   Generated File[EF_v1p0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:01:25 On 14-09-2020
